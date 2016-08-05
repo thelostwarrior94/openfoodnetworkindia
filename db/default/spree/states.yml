@@ -1,0 +1,145 @@
+#India
+  name: Andhra Pradesh
+  country_id: '92'
+  id: '101'
+  abbr: AP
+  name: Arunachal Pradesh
+  country_id: '92'
+  id: '102'
+  abbr: AR
+  name: Assam
+  country_id: '92'
+  id: '103'
+  abbr: AS
+  name: Bihar
+  country_id: '92'
+  id: '104'
+  abbr: BR
+  name: Chhattisgarh
+  country_id: '92'
+  id: '105'
+  abbr: CT
+  name: Goa
+  country_id: '92'
+  id: '106'
+  abbr: GA
+  name: Gujarat
+  country_id: '92'
+  id: '107'
+  abbr: GJ
+  name: Haryana
+  country_id: '92'
+  id: '108'
+  abbr: HR
+  name: Himachal Pradesh
+  country_id: '92'
+  id: '109'
+  abbr: HP
+  name: Jammu and Kashmir
+  country_id: '92'
+  id: '110'
+  abbr: JK
+  name: Jharkhand
+  country_id: '92'
+  id: '111'
+  abbr: JH
+  name: Karnataka
+  country_id: '92'
+  id: '112'
+  abbr: KA
+  name: Kerala
+  country_id: '92'
+  id: '113'
+  abbr: KL
+  name: Madhya Pradesh
+  country_id: '92'
+  id: '114'
+  abbr: MP
+  name: Maharashtra
+  country_id: '92'
+  id: '115'
+  abbr: MH
+  name: Manipur
+  country_id: '92'
+  id: '116'
+  abbr: MN
+  name: Meghalaya
+  country_id: '92'
+  id: '117'
+  abbr: ML
+  name: Mizoram
+  country_id: '92'
+  id: '118'
+  abbr: MZ
+  name: Nagaland
+  country_id: '92'
+  id: '119'
+  abbr: NL
+  name: Odisha
+  country_id: '92'
+  id: '120'
+  abbr: OR
+  name: Punjab
+  country_id: '92'
+  id: '121'
+  abbr: PB
+  name: Rajasthan
+  country_id: '92'
+  id: '122'
+  abbr: RJ
+  name: Sikkim
+  country_id: '92'
+  id: '123'
+  abbr: SK
+  name: Tamil Nadu
+  country_id: '92'
+  id: '124'
+  abbr: TN
+  name: Telangana
+  country_id: '92'
+  id: '125'
+  abbr: TG
+  name: Tripura
+  country_id: '92'
+  id: '126'
+  abbr: TR
+  name: Uttar Pradesh
+  country_id: '92'
+  id: '127'
+  abbr: UP
+  name: Uttarakhand
+  country_id: '92'
+  id: '128'
+  abbr: UT
+  name: West Bengal
+  country_id: '92'
+  id: '129'
+  abbr: WB
+  name: Andaman and Nicobar Islands
+  country_id: '92'
+  id: '130'
+  abbr: AN
+  name: Chandigarh
+  country_id: '92'
+  id: '131'
+  abbr: CH
+  name: Dadra and Nagar Haveli
+  country_id: '92'
+  id: '132'
+  abbr: DN
+  name: Daman and Diu
+  country_id: '92'
+  id: '133'
+  abbr: DD
+  name: Lakshadweep
+  country_id: '92'
+  id: '134'
+  abbr: LD
+  name: National Capital Territory of Delhi
+  country_id: '92'
+  id: '135'
+  abbr: DL
+  name: Puducherry
+  country_id: '92'
+  id: '136'
+  abbr: PY
